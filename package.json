@@ -1,0 +1,23 @@
+{
+  "name": "codebase",
+  "version": "1.0.0",
+  "description": "JavaScript functions with tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "testMatch": [
+      "**/__tests__/*.js",
+      "**/*.test.js",
+      "**/*.spec.js"
+    ]
+  }
+}
