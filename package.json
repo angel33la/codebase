@@ -1,13 +1,13 @@
 {
   "name": "codebase",
   "version": "1.0.0",
-  "description": "JavaScript functions with tests",
+  "description": "Assignment: Testing Your Own Codebase",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
   "keywords": [],
-  "author": "",
+  "author": "Angella McConnell",
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.7.0"
